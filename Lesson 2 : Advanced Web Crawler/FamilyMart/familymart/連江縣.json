@@ -1,0 +1,62 @@
+[
+  {
+    "NAME": "全家馬祖福澳店",
+    "TEL": "836-23036",
+    "POSTel": "836-",
+    "px": 119.940681,
+    "py": 26.160919,
+    "addr": "連江縣南竿鄉福澳村１３５號１樓",
+    "SERID": 58927.0,
+    "pkey": "018927",
+    "oldpkey": "018927",
+    "post": "209",
+    "all": "SWEETPOTATO,icecream,oneice,Preorder,Rpotato",
+    "road": "無路名店鋪",
+    "twoice": null
+  },
+  {
+    "NAME": "全家馬祖福運店",
+    "TEL": "836-23389",
+    "POSTel": "836-",
+    "px": 119.941263,
+    "py": 26.158136,
+    "addr": "連江縣南竿鄉福沃村６９號１樓",
+    "SERID": 59854.0,
+    "pkey": "019854",
+    "oldpkey": "019854",
+    "post": "209",
+    "all": "icecream,oneice,twoice,Rpotato,SCoffee,Card",
+    "road": "無路名店鋪",
+    "twoice": "Y"
+  },
+  {
+    "NAME": "全家馬祖清水店",
+    "TEL": "836-23744",
+    "POSTel": "836-",
+    "px": 119.9350239,
+    "py": 26.153343,
+    "addr": "連江縣南竿鄉清水村１１７號１樓",
+    "SERID": 60552.0,
+    "pkey": "020552",
+    "oldpkey": "020552",
+    "post": "209",
+    "all": "icecream,veg,oneice,twoice,SCoffee",
+    "road": "無路名店鋪",
+    "twoice": "Y"
+  },
+  {
+    "NAME": "全家馬祖機場店",
+    "TEL": "836-22517",
+    "POSTel": "836-",
+    "px": 119.952643,
+    "py": 26.158261000000003,
+    "addr": "連江縣南竿鄉復興村２２０號１樓（南竿航空站二航廈）",
+    "SERID": 60649.0,
+    "pkey": "020649",
+    "oldpkey": "020649",
+    "post": "209",
+    "all": "icecream,oneice",
+    "road": "無路名店鋪",
+    "twoice": null
+  }
+]
